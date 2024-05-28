@@ -15,3 +15,4 @@ function confirmPresence() {
 
     localStorage.setItem('formData', JSON.stringify(formData));
 }
+
